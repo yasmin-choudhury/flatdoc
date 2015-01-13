@@ -1,0 +1,2 @@
+# flatdoc
+documentation generator trial
